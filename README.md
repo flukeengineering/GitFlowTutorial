@@ -39,7 +39,7 @@ git flow init
 
 output
 
-    ~/De/p/dsm/da/data-platform    development  git flow init
+ git flow init
 
 Which branch should be used for bringing forth production releases?
    - development
@@ -57,9 +57,7 @@ Release branches? [release/]
 Hotfix branches? [hotfix/] 
 Support branches? [support/] 
 Version tag prefix? [] 
-Hooks and filters directory? [/Users/naii/Desktop/project/dsm/data_platform/data-platform/.git/hooks] 
-
-    ~/De/p/dsm/da/data-platform    development    
+Hooks and filters directory?  
 
 
 
